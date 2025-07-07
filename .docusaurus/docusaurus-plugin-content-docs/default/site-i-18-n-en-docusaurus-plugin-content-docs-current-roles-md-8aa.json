@@ -1,0 +1,24 @@
+{
+  "id": "roles",
+  "title": "Roles",
+  "description": "The Roles section is used to set permissions for individual roles within your organization. Each role defines which application features users can access and how they can interact with them.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/roles.md",
+  "sourceDirName": ".",
+  "slug": "/roles",
+  "permalink": "/docs/roles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/roles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Users",
+    "permalink": "/docs/users"
+  },
+  "next": {
+    "title": "Conclusion",
+    "permalink": "/docs/zaver"
+  }
+}

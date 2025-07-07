@@ -1,0 +1,24 @@
+{
+  "id": "feedback",
+  "title": "Feedback",
+  "description": "The Feedback section is primarily intended for administrators to monitor and evaluate the quality of responses from individual AI assistants. It provides a quick overview of how users react to responses within conversations and give feedback.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/feedback.md",
+  "sourceDirName": ".",
+  "slug": "/feedback",
+  "permalink": "/docs/feedback",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/feedback.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data",
+    "permalink": "/docs/data"
+  },
+  "next": {
+    "title": "Profile",
+    "permalink": "/docs/profile"
+  }
+}

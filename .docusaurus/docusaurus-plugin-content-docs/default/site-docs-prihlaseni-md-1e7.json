@@ -1,0 +1,24 @@
+{
+  "id": "prihlaseni",
+  "title": "Přihlášení",
+  "description": "Přihlášení do aplikace",
+  "source": "@site/docs/prihlaseni.md",
+  "sourceDirName": ".",
+  "slug": "/prihlaseni",
+  "permalink": "/cs/docs/prihlaseni",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/prihlaseni.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vítejte v dokumentaci Siesta AI",
+    "permalink": "/cs/docs/intro"
+  },
+  "next": {
+    "title": "Ovládací prvky",
+    "permalink": "/cs/docs/ovladaci-prvky"
+  }
+}

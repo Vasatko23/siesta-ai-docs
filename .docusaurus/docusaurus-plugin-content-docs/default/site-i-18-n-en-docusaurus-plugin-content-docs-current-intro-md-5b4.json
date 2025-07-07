@@ -1,0 +1,20 @@
+{
+  "id": "intro",
+  "title": "Welcome to the Siesta AI Documentation",
+  "description": "This documentation will help you understand and effectively use the Siesta AI platform.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Login",
+    "permalink": "/docs/prihlaseni"
+  }
+}

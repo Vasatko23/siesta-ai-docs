@@ -1,0 +1,24 @@
+{
+  "id": "organization",
+  "title": "Organization",
+  "description": "The Organization module allows you to manage entities (e.g., companies) that use the Siesta AI platform. Each organization can group multiple users, manage their access, and set billing information. This module is ideal for companies that need to have an overview and control over who uses the platform, how, and in what role.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/organization.md",
+  "sourceDirName": ".",
+  "slug": "/organization",
+  "permalink": "/docs/organization",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/organization.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Profile",
+    "permalink": "/docs/profile"
+  },
+  "next": {
+    "title": "Users",
+    "permalink": "/docs/users"
+  }
+}

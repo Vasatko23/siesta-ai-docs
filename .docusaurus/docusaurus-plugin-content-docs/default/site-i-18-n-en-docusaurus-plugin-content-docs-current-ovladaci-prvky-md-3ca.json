@@ -1,0 +1,24 @@
+{
+  "id": "ovladaci-prvky",
+  "title": "Controls",
+  "description": "Controls in the web application are interactive elements of the user interface that allow users to interact with the app and perform various actions. Within the application, we distinguish these elements as the sidebar menu and the top bar.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/ovladaci-prvky.md",
+  "sourceDirName": ".",
+  "slug": "/ovladaci-prvky",
+  "permalink": "/docs/ovladaci-prvky",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/ovladaci-prvky.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Login",
+    "permalink": "/docs/prihlaseni"
+  },
+  "next": {
+    "title": "Chat",
+    "permalink": "/docs/chat"
+  }
+}

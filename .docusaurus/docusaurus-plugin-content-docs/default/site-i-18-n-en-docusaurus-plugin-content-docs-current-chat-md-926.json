@@ -1,0 +1,24 @@
+{
+  "id": "chat",
+  "title": "Chat",
+  "description": "The Chat section is used for conducting conversations with AI assistants that are created and configured in the Assistants section of the platform. Here, users can start new conversations, browse the history of previous chats, and provide feedback on responses.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/chat.md",
+  "sourceDirName": ".",
+  "slug": "/chat",
+  "permalink": "/docs/chat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/chat.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Controls",
+    "permalink": "/docs/ovladaci-prvky"
+  },
+  "next": {
+    "title": "Assistants",
+    "permalink": "/docs/assistants"
+  }
+}

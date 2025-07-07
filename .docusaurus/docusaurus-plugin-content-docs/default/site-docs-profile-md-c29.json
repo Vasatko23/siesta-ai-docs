@@ -1,0 +1,24 @@
+{
+  "id": "profile",
+  "title": "Profile",
+  "description": "Sekce Profil slouží uživatelům ke správě jejich základních údajů a změně hesla. Každý přihlášený uživatel zde najde formulář rozdělený do dvou částí:",
+  "source": "@site/docs/profile.md",
+  "sourceDirName": ".",
+  "slug": "/profile",
+  "permalink": "/cs/docs/profile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/profile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Feedback",
+    "permalink": "/cs/docs/feedback"
+  },
+  "next": {
+    "title": "Organisation",
+    "permalink": "/cs/docs/organization"
+  }
+}

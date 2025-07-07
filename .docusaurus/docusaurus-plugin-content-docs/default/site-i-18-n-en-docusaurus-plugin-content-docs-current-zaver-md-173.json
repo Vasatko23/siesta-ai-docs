@@ -1,0 +1,20 @@
+{
+  "id": "zaver",
+  "title": "Conclusion",
+  "description": "This product specification serves as an introductory overview of the Siesta AI platform and its core functionalities. Its aim is to help clients and partners better understand what the platform offers, how it works, and how it can be used in various business scenarios.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/zaver.md",
+  "sourceDirName": ".",
+  "slug": "/zaver",
+  "permalink": "/docs/zaver",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/zaver.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roles",
+    "permalink": "/docs/roles"
+  }
+}

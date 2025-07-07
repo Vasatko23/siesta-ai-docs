@@ -1,0 +1,24 @@
+{
+  "id": "assistants",
+  "title": "Assistants",
+  "description": "Sekce Assistants slouží k vytváření a správě vlastních AI asistentů, kteří odpovídají uživatelům v rámci vymezeného kontextu a podle přednastaveného chování. Každý asistent je samostatně definována entita, která může mít vlastní přístup k datům, rozdílný způsob komunikace a využívat jiný model.",
+  "source": "@site/docs/assistants.md",
+  "sourceDirName": ".",
+  "slug": "/assistants",
+  "permalink": "/cs/docs/assistants",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Vasatko23/siesta-ai-docs/tree/main/docs/assistants.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chat",
+    "permalink": "/cs/docs/chat"
+  },
+  "next": {
+    "title": "Conversations",
+    "permalink": "/cs/docs/conversations"
+  }
+}
